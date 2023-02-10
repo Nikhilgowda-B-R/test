@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-16T14:57:54 IST" name="Default suite" finished-at="2023-01-16T14:58:01 IST" duration-ms="7555">
+    <groups>
+    </groups>
+    <test started-at="2023-01-16T14:57:54 IST" name="Default test" finished-at="2023-01-16T14:58:01 IST" duration-ms="7555">
+      <class name="test.Amlogin">
+        <test-method signature="amlog()[pri:0, instance:test.Amlogin@59505b48]" started-at="2023-01-16T14:57:54 IST" name="amlog" finished-at="2023-01-16T14:58:01 IST" duration-ms="7486" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amlog -->
+      </class> <!-- test.Amlogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
